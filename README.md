@@ -17,7 +17,8 @@ I use this space to practice, document, and share what I learn while exploring A
 1. Clone this repository:
    ```bash
    git clone https://github.com/Divy-007/machine-learning.git
-2. naviagte to the project
+2. naviagte to the project:
+   ```bash
    cd machine-learning
 
 
